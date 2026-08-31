@@ -1,4 +1,5 @@
 # My Dashboard
+*Created: 2024-05-28*
 
 A personal **Next.js** dashboard built with the App Router, **Tailwind CSS**, and **TypeScript**.
 
